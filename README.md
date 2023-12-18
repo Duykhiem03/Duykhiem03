@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Duykhiem03
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, C++, JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
