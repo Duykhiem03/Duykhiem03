@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Duykhiem03
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python, C++, JavaScript, HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Duykhiem03/Duykhiem03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
