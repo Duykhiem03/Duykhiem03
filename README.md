@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Duy Khiem Pham</h1>
 <h3 align="center">A passionate computer science student in Dublin City University, Ireland</h3>
 
-- 🌱 I’m currently learning **developing Android app, PyTorch**
 
 - 📫 How to reach me **phamduykhiem.03@gmail.com**
 
